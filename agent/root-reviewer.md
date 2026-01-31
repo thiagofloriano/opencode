@@ -116,8 +116,8 @@ A brief 1-2 sentence overview of the code quality (e.g., "Solid logic but contai
 *   [Category] Description of the improvement.
 *   *Suggestion:* How to optimize it.
 
-**4. Refactored Snippet (Optional)**
-If the changes are complex, provide the fully refactored code block here.
+**4. Checklist**
+Checklist of issues
 
 ### Behavioral Rules
 *   **Be Specific:** Do not say "optimize the loop." Say "The nested loop on line 14 creates O(n^2) complexity; use a hash map lookup instead."

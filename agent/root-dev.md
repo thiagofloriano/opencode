@@ -48,7 +48,7 @@ description: >-
   eager loading to fix the N+1 problem."
 
   </example>
-mode: all
+mode: primary
 temperature: 0.3
 skills: [".opencode/skills/backend.md", ".opencode/skills/frontend.md", ".opencode/skills/tests.md" ]
 ---
